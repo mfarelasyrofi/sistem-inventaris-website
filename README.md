@@ -1,4 +1,4 @@
 # Sistem-Inventaris-Barang
 Membuat Sistem Inventaris Barang Berbasis Website
 
-NOTES: This project is a project of a system that can manage the stock of goods and also information on a company
+NOTES: This website project is a system that can manage stock and information on a company
